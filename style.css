@@ -446,8 +446,14 @@ form .btn:focus{
  #RegForm{
     left: 0;
  }
-
-
+form a{
+  font-size: 12px;  
+}
+#Indicator{
+width: 100px;
+border:none ;
+background: #ff523b;
+}
 
 
 
@@ -473,3 +479,5 @@ form .btn:focus{
 
 
     }
+    /*----continuation
+    
